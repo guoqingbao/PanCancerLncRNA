@@ -12,11 +12,11 @@ library(reticulate)
 
 memory.limit(22000) # be sure you have enough memory to conduct the enrichment analysis
 
-# be sure geneframe_id.pkl file is accessible
-genome_width_dataset_file = "C:\\Users\\gbao5100\\Documents\\Projects\\Brain\\r-experiment\\geneframe_id.pkl"
-
 #set the project path
 project_path = "./project/"
+
+# be sure geneframe_id.pkl file is accessible
+genome_width_dataset_file = paste(project_path,"data/geneframe_id.pkl", sep="")
 
 xlgene = py_load_object(genome_width_dataset_file, pickle = "pickle")
 

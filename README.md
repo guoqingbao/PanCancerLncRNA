@@ -4,7 +4,7 @@ An intuitive and streamlined pan-cancer analysis framework for identification of
 
 ### Please cite our work if you found it is useful for your research.
 
-Guoqing Bao and Ran Xu et al., “Identification of lncRNA Signature Associated With Pan-cancer Prognosis”, IEEE Journal of Biomedical and Health Informatics, 2020, In press.
+Guoqing Bao and Ran Xu et al., “Identification of lncRNA Signature Associated With Pan-cancer Prognosis”, in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2020.3027680, 2020.
 
 ## Prerequisites
 
